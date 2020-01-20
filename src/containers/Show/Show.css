@@ -1,0 +1,23 @@
+.container {
+    max-width: 1000px;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+.ShowInfo {
+    display: flex;
+    flex-direction: row;
+}
+
+.ShowInfo img {
+    width: 20%;
+}
+
+.info {
+    padding-left: 20px;
+}
+
+.info h2 {
+    margin: 0;
+    padding: 0;
+}
